@@ -86,21 +86,19 @@ It should be noted that, for example in suffix implementation, sorting part of t
 
 ## 'Big chunk' test
 
-![Big chunk test efficiency chart](http://i.imgur.com/XykUYDM.png)
-![Big chunk test compression time chart](http://i.imgur.com/j7btH0r.png)
-![Big chunk test decompression time chart](http://i.imgur.com/6LNnJbH.png)
+![Big chunk test efficiency chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/big_eff.png)
+![Big chunk test compression time chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/big_comp.png)
+![Big chunk test decompression time chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/big_decomp.png)
 
 ## Ebooks test
 
-![Ebooks test efficiency chart](http://i.imgur.com/GPAs4ZG.png)
+![Ebooks test efficiency chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/ebook_eff.png)
 
+## Text files test (RFC)
 
-## Text files test
-
-![RFC test efficiency chart](http://i.imgur.com/m6EFGLd.png)
-![RFC test compression chart](http://i.imgur.com/qVS07PC.png)
-![RFC test decompression chart](http://i.imgur.com/BJ47eWD.png)
-![Pan Tadeusz test compression time chart](http://i.imgur.com/2acAdb6.png)
+![RFC test efficiency chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/rfc_eff.png)
+![RFC test compression chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/rfc_comp.png)
+![RFC test decompression chart](https://raw.githubusercontent.com/swistak35/uwr_bwt_compression/master/plots/rfc_decomp.png)
 
 # Short notes & conclusions
 
