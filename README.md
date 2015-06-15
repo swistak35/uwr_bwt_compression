@@ -2,7 +2,7 @@
 
 These are simple programs written for 'Data compression' course on University of Wrocław.
 
-Online (and prettier) version of this document is available [here](https://github.com/swistak35/uwr_bwt_compression).
+Online (and prettier) version of this document is available here: https://github.com/swistak35/uwr_bwt_compression .
 
 ## Compilation
 
